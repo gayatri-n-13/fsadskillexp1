@@ -1,3 +1,5 @@
 Git Lab Notes
 -------------
 Learning Git workflow with branches and commits.
+Feature Update:
+Added new functionality ideas.
